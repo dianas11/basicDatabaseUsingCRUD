@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularcrud-8d6de": {
+      "hosting": {
+        "angular9-firebaseapp": [
+          "angularcrud-8d6de"
+        ]
+      }
+    }
+  }
+}
